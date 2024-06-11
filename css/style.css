@@ -1,0 +1,16 @@
+h2{
+    text-align: center;
+}
+
+body {
+    background-color: rgba(46, 18, 18, 0.733);
+    color: rgb(240, 245, 245);
+  }
+  div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    margin: 250px auto;
+  }
+  
